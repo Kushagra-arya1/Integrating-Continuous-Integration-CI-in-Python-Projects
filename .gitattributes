@@ -1,0 +1,7 @@
+# Ensure shell scripts have LF line endings
+*.sh text eol=lf
+*.bat text eol=crlf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.py text eol=lf
+*.md text eol=lf
