@@ -1,7 +1,7 @@
 # Technical Documentation: Integrating Continuous Integration (CI) in Python Projects
 
 **Project**: `mini-calc` Continuous Integration Reference Architecture  
-**Author**: Python CI Engineering Team  
+**Repository**: [Kushagra-arya1/Integrating-Continuous-Integration-CI-in-Python-Projects](https://github.com/Kushagra-arya1/Integrating-Continuous-Integration-CI-in-Python-Projects)  
 **Task Deliverable**: Week 6 Task - Integrating Continuous Integration (CI) in Python Projects  
 **Date**: November 2026  
 
